@@ -1,0 +1,19 @@
+{
+	"intents": [
+		{
+			"intent": "Why"
+  		},
+      	{
+          "intent": "ExecutionOrder",
+		  	"slots": [
+				{
+					"name": "Order",
+					"type": "LIST_OF_ORDERS"
+				}
+			]
+        },
+      	{
+			"intent": "AMAZON.HelpIntent"
+  		}
+	]
+}
