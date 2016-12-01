@@ -1,0 +1,19 @@
+{
+	"intents": [
+      	{
+          "intent": "Counter",
+		  	"slots": [
+				{
+					"name": "Hero",
+					"type": "LIST_OF_HEROES"
+				}
+			]
+        },
+      	{
+			"intent": "AMAZON.HelpIntent"
+  		},
+      	{
+        	"intent": "AMAZON.StopIntent"
+      	}
+	]
+}

@@ -1,0 +1,8 @@
+Counter {Hero}
+Counter how to counter {Hero}
+Counter counter {Hero}
+Counter counters {Hero}
+Counter who counters {Hero}
+Counter what counters {Hero}
+Counter {Hero} counters
+Counter {Hero} counter
