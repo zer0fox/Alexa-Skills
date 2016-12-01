@@ -1,6 +1,8 @@
-Why why
-ExecuteOrder execute order {Order}
-ExecuteOrder execute {Order}
-ExecuteOrder to execute order {Order}
-ExecuteOrder to execute {Order}
-ExecuteOrder order {Order}
+Counter {Hero}
+Counter how to counter {Hero}
+Counter counter {Hero}
+Counter counters {Hero}
+Counter who counters {Hero}
+Counter what counters {Hero}
+Counter {Hero} counters
+Counter {Hero} counter

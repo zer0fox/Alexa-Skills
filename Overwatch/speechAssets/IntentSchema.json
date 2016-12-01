@@ -1,19 +1,19 @@
 {
 	"intents": [
-		{
-			"intent": "Why"
-  		},
       	{
-          "intent": "ExecuteOrder",
+          "intent": "Counter",
 		  	"slots": [
 				{
-					"name": "Order",
-					"type": "LIST_OF_ORDERS"
+					"name": "Hero",
+					"type": "LIST_OF_HEROES"
 				}
 			]
         },
       	{
 			"intent": "AMAZON.HelpIntent"
-  		}
+  		},
+      	{
+        	"intent": "AMAZON.StopIntent"
+      	}
 	]
 }

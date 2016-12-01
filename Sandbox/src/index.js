@@ -48,7 +48,7 @@ God.prototype.intentHandlers = {
         response.tell(sayResponse);
     },
     "AMAZON.HelpIntent": function (intent, session, response) {
-        response.ask("This is a sandbox fox has created to test his code.", "help");
+        response.ask("This is a sandbox fox has created to test his code.", "Any time.");
     }
 };
 
