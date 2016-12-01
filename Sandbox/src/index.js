@@ -43,7 +43,7 @@ God.prototype.intentHandlers = {
                 sayResponse = "Yes my lord.";
                 break;
             default:
-                sayResponse = "Undefined order.";
+                sayResponse = "Undefined order "+intent.slots.Order.value+".";
         }
         response.tell(sayResponse);
     },
