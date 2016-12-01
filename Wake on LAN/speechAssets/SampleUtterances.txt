@@ -1,0 +1,8 @@
+WakeOnLan to wake up
+WakeOnLan to turn on
+WakeOnLan to power up
+WakeOnLan to power
+WakeOnLan wake up
+WakeOnLan turn on
+WakeOnLan power up
+WakeOnLan power
