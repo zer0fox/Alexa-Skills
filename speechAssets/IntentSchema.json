@@ -4,7 +4,7 @@
 			"intent": "Why"
   		},
       	{
-          "intent": "ExecutionOrder",
+          "intent": "ExecuteOrder",
 		  	"slots": [
 				{
 					"name": "Order",
