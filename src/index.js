@@ -27,7 +27,7 @@ God.prototype.intentHandlers = {
     "Why": function (intent, session, response) {
         response.ask("What is the question?", "Hello?");
     },
-    "ExecutionOrder": function (intent, session, response) {
+    "ExecuteOrder ": function (intent, session, response) {
         var sayResponse = "";
         switch(intent.slots.Order.value){
             case "1":
